@@ -1,6 +1,6 @@
 Summary:	CPU, RAM, and load monitor for use with tmux
 Name:		tmux-mem-cpu-load	
-Version:	3.4.0
+Version:	3.6.0
 Release:	1
 License:	Apache2.0
 Group:		Text tools
